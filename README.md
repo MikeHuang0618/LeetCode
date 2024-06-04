@@ -1,4 +1,5 @@
-# LeetCode Journey (Fork by LeetCodeJourney, URL: https://github.com/TheExplainthis/LeetCodeJourney.git)
+# LeetCode Journey (Fork by LeetCodeJourney)
+* **URL:** https://github.com/TheExplainthis/LeetCodeJourney.git
 
 ## 目的
 這個 Repository 的主要目的是：
