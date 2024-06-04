@@ -19,10 +19,10 @@
     * [(M) 128. Longest Consecutive Sequence](./128.LongestConsecutiveSequence.py)
     * [(M) 347. Top K Frequent Elements](./347.TopKFrequentElements.py)
     * [(M) 238. Product of Array Except Self](./238.ProductofArrayExceptSelf.py)
-    * [(M) 271. Encode and Decode Strings]
+    * [(M) 271. Encode and Decode Strings](./271.EncodeAndDecodeStrings.py)
     
 * Two Pointers
-    * [(E) 125. Valid Palindrome]
+    * [(E) 125. Valid Palindrome](./125.ValidPalindrome.py)
     * [(M) 11. Container With Most Water]
     * [(M) 15. 3Sum]
 
