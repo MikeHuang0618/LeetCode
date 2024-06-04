@@ -1,4 +1,7 @@
 '''
+Coder: Mike Huang
+Date: 2024/02/15
+
 Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
 
 You must write an algorithm that runs in O(n) time.
@@ -45,5 +48,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
 
-    # 2717. Semi-Ordered Permutation
     print(solution.longestConsecutive([0,0]))

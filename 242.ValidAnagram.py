@@ -1,4 +1,7 @@
 '''
+Coder: Mike Huang
+Date: 2024/02/15
+
 Given two strings s and t, return true if t is an anagram of s, and false otherwise.
 
 An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase, typically using all the original letters exactly once.
@@ -31,5 +34,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
 
-    # 2717. Semi-Ordered Permutation
     print(solution.isAnagram("ac", "bb"))

@@ -1,4 +1,7 @@
 '''
+Coder: Mike Huang
+Date: 2024/02/15
+
 Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order.
 
 Example 1:
@@ -46,5 +49,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
 
-    # 2717. Semi-Ordered Permutation
     print(solution.topKFrequent([1,1,1,2,2,3], 2))

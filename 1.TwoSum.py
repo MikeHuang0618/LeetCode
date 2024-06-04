@@ -59,5 +59,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
 
-    # 2717. Semi-Ordered Permutation
     print(solution.twoSum([-11,7,3,2,1,7,-10,11,21,3], 11))

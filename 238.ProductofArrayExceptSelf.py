@@ -1,4 +1,7 @@
 '''
+Coder: Mike Huang
+Date: 2024/02/15
+
 Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].
 
 The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.
@@ -34,5 +37,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution()
 
-    # 2717. Semi-Ordered Permutation
     print(solution.productExceptSelf([-1,1,0,-3,3]))
