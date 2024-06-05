@@ -23,8 +23,8 @@
     
 * Two Pointers
     * [(E) 125. Valid Palindrome](./125.ValidPalindrome.py)
-    * [(M) 11. Container With Most Water]
-    * [(M) 15. 3Sum]
+    * [(M) 11. Container With Most Water](./11.ContainerWithMostWater.py)
+    * [(M) 15. 3Sum](./15.3Sum.py)
 
 * Sliding Window
     * [(E) 121. Best Time to Buy and Sell Stock]
